@@ -1,3 +1,6 @@
+// L'utente inserisce due parole in successione, con due prompt.
+// Il software stampa prima la parola più corta, poi la parola più lunga.
+
 const firstWord = prompt("Dammi la prima parola");
 const secondWord = prompt("Dammi la seconda parola");
 
